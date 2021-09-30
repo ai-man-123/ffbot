@@ -1,7 +1,7 @@
-​{
-​  ​"​name​"​: "​shan-bot​"​,
-​  ​"​description​"​: "​whatsapp bot build with nodejs​"​,
-​  ​"​repository​"​: "​https://github.com/HanifFarhanN/botme​"​,
-​  ​"​logo​"​: "​https://h.top4top.io/p_2089aimbr0.jpg​"​,
-​  ​"​keywords​"​: [​"​nodejs​"​, ​"​bot​"​, ​"​whatsapp bot​"​]
+{
+  "name": "botmehan",
+  "description": "Credits Ndyie Botz Recode Hanif",
+  "repository": "https://github.com/HanifFarhanN/botme",
+  "logo": "https://h.top4top.io/p_2089aimbr0.jpg​",
+  "keywords": ["ndyie", "hanif", "botwea"]
 }
