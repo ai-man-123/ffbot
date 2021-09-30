@@ -13,13 +13,26 @@
 
 ## Change Session.json
 Do not know how?
+
 Step 1 Go To Termux And Command
+
 $ pkg install git
+
 $ pkg install mc
+
 $ git clone https://github.com/HanifFarhanN/botme
+
 $ bash install.sh
+
 $ npm start
+
 $ mc
+
 (Click Qrnya.json And Copy)
 Done? Paste In Here ⬇️
 (https://github.com/HanifFarhanN/botme/blob/master/session.json)
+````
+
+ Join Group Diskusi
+[![Grup WhatsApp](url=https://top4top.io/][img]https://a.top4top.io/s_2099v216h0.png)](https://chat.whatsapp.com/DHKyawJfcH74DUJkJvzGDH) 
+**For Social**
