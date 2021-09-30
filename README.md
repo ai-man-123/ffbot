@@ -5,11 +5,11 @@
 
 ## Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HanifFarhanN/botme)
-```
+
 
 ## Change Owner Number,Name Bot DLL
 (https://github.com/HanifFarhanN/botme/blob/master/settings.json)
-```
+
 
 ## Change Session.json
 Do not know how?
@@ -31,8 +31,8 @@ $ mc
 (Click Qrnya.json And Copy)
 Done? Paste In Here ⬇️
 (https://github.com/HanifFarhanN/botme/blob/master/session.json)
-````
 
- Join Group Diskusi
+
+## Join Group Diskusi
 [![Grup WhatsApp](url=https://top4top.io/][img]https://a.top4top.io/s_2099v216h0.png)](https://chat.whatsapp.com/DHKyawJfcH74DUJkJvzGDH) 
 **For Social**
